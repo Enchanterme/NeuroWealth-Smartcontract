@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/data-key-docs-ci-check",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/data-key-docs-ci-check": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/data-key-docs-ci-check",
+    "origin"
+  ]
+}
