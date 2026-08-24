@@ -11,5 +11,7 @@ pr.md
 node_modules/
 .next/
 dist/
-.env
-.env.local
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
